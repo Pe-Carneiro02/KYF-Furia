@@ -1,0 +1,7 @@
+easyocr
+tweepy
+transformers
+torch
+pandas
+matplotlib
+Pillow
